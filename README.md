@@ -60,7 +60,7 @@ pip install streamlit
 1. Clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/Palak2005dixit/Fake-News-Detection.git
+git clone https://github.com/Palak2005dixit/Fake-News-Detection-.git
 ```
 
 2. Navigate to the project directory:
