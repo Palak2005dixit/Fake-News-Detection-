@@ -60,7 +60,7 @@ pip install streamlit
 1. Clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/Palak2005Dixit/Fake-News-Detection.git
+git clone https://github.com/Palak2005dixit/Fake-News-Detection.git
 ```
 
 2. Navigate to the project directory:
@@ -89,7 +89,7 @@ Once you are satisfied with the performance of a particular classifier, you can 
 ## Project Screenshots
 
 #### Not a Fake News
-![Not a Fake News](Sample2.png)
+![Not a Fake News](sample2.png)
 
 #### Fake News
 ![Fake News](sample1.png)
