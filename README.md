@@ -89,9 +89,7 @@ Once you are satisfied with the performance of a particular classifier, you can 
 ## Project Screenshots
 
 #### Not a Fake News
-![Not a Fake News](<img src="https://socialify.git.ci/Palak2005dixit/Fake-News-Detection/image?description=1&font=Source%20Code%20Pro&forks=1&issues=1&language=1&name=1&owner=1&pattern=Charlie%20Brown&pulls=1&stargazers=1&theme=Dark" alt="Fake-News-Detection" width="1280" height="320" />
-)
+![Not a Fake News](Sample2.png)
 
 #### Fake News
-![Fake News](<img src="https://socialify.git.ci/Palak2005dixit/Fake-News-Detection/image?description=1&font=Source%20Code%20Pro&forks=1&issues=1&language=1&name=1&owner=1&pattern=Charlie%20Brown&pulls=1&stargazers=1&theme=Dark" alt="Fake-News-Detection" width="1280" height="320" />
-)
+![Fake News](sample1.png)
